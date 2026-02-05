@@ -1,1 +1,2 @@
-python("akhil")
+Print("akhil")
+
